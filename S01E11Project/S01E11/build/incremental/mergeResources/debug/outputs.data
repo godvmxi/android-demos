@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377337464671 13801 6844a5805dba74568e89bc72072b31640e6576cc D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1377337464630 4697 d318903ce31f60b68cd0ac8ba4761c10aa2ed7df D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1377337464582 314 82226152929c6c92227e213367dd4077774def16 D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\values-v11\values.xml
+1377337464581 750 876fb4d78057906d8c07db68e23d8a4d745ad76e D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\layout\activity_main.xml
+1377337464576 328 c9f628ee8aaf1e30f9cc3833ec4a44baf65bca2e D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\values-v14\values.xml
+1377337464587 243 2d3852a483576e48ea346884f0e5966d64da259f D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\values-sw720dp-land\values.xml
+1377337464629 2461 1f774c0d9c8281be8a824539c936e194e6c004fa D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1377337464631 7186 658f80ce43d028caeeed763eef67ab30acde886e D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1377337464571 334 e5100817848d058b37ba657a6e1379102814007d D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\menu\main.xml
+1377337464570 1101 6fb38d1f149d3847a7503e1f1cf2a72499501c26 D:\work\android-demos\S01E11Project\S01E11\build\res\all\debug\values\values.xml

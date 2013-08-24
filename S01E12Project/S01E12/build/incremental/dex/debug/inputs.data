@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377337443690 403 fe50b61b42b31d1d37aa0249f43db7dacc6d9dc3 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$layout.class
+1377337443695 472 358ee49f209619966ea18b33bbfce3ecaa4a3884 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$string.class
+1377337443692 388 824ade1439edc5222a72441332977d90bbe9359a D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$menu.class
+1377337443668 817 ef7c866894066b86aa3cd46e0b982118e5f4598b D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\MainActivity.class
+1377337443678 340 27fce9a164d9f47744b77dfd3b450b60da80bf94 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$attr.class
+1377337443687 393 777b3af4821e3f5c362e6f5f51089de82f0d6671 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$id.class
+1377337443697 431 1a562be12bfc27f528ba73c9e90c7c786f67b23b D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$style.class
+1377337443684 407 358582efccbda625c9de26ac11246bd4bea5e187 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$drawable.class
+1377337443702 677 be0bf6f2800016d31782fd8cc274ff70998865c2 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d D:\Program Files\studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1377337443705 345 35da374abad969dc1ac699be44c3ef6d492bf4a4 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\BuildConfig.class
+1377337443681 461 9079fa2e8067c4cd4695646c90d20e0dc1ac24c3 D:\work\android-demos\S01E12Project\S01E12\build\classes\debug\com\example\s01e12\R$dimen.class
